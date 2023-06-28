@@ -6,7 +6,7 @@ export const NavBarContent = styled.div`
     margin-inline: auto;
     display: flex;
     align-items: center;
-    justify-content: space-around;
+    justify-content: space-between;
 `
 
 export const H1Teste = styled.h1`

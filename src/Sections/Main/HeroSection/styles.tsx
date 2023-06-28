@@ -4,7 +4,7 @@ import styled from 'styled-components'
 export const Section = styled.section`
     background-image: linear-gradient(90deg, hsl(13, 100%, 72%), hsl(353, 100%, 62%));
     padding-block: 10rem;
-    border-bottom-left-radius: 10rem;
+    border-bottom-left-radius: 8rem;
     display: flex;
     flex-direction: column;
     align-items: center;

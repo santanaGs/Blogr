@@ -6,7 +6,7 @@ export const HeroSection = () =>{
     return(
         <div>
             <Section>
-                <Title>Um Projeto de Caique Tech</Title>
+                <Title>A modern publishing platform</Title>
                 <Description>Grow your audience and build your online brand</Description>
                 <ButtonsContainer>
                     <StartFree href="#">Start For Free</StartFree>
