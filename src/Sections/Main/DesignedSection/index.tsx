@@ -1,5 +1,7 @@
 import { Description } from "../HeroSection/styles"
-import { Container, SectionContent, TitleSection, InfoSection, LeftArea, RightArea, TextInfo, TitleInfo, DescriptionInfo } from "./styles"
+import { Container, SectionContent, TitleSection, InfoSection, LeftArea, RightArea, TextInfo, TitleInfo, DescriptionInfo, ImageDesktop } from "./styles"
+
+import futereImg from '../../../assets/image/illustration-editor-desktop.svg'
 
 export const DesignedSection = () => {
     return (
@@ -27,7 +29,7 @@ export const DesignedSection = () => {
                         </TextInfo>
                     </LeftArea>
                     <RightArea>
-
+                        <ImageDesktop src={futereImg} alt="" />
                     </RightArea>
                 </InfoSection>
             </SectionContent>
