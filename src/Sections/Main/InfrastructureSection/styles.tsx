@@ -1,8 +1,7 @@
 import styled from "styled-components";
 
 export const Container = styled.div`
-
-
+    margin-bottom: 10rem;
 `
 
 export const SectionContent = styled.div`
@@ -30,6 +29,8 @@ export const RightArea = styled.div`
 display: flex;
 flex-direction: column;
 gap: 2rem;
+position: relative;
+top: -15px;
 `
 
 export const TitleSection = styled.h1`
@@ -38,12 +39,12 @@ export const TitleSection = styled.h1`
 `
 
 export const ImgShadow = styled.img`
-    filter: drop-shadow(10px 5px 5px hsl(237, 23%, 32%));
+    filter: drop-shadow(7px 5px 5px hsl(237, 23%, 32%));
 `
 
 export const Description = styled.p`
     color: hsl(240, 2%, 79%);
     font-family: 'Ubuntu',sans-serif;
-    width: 500px;
-
+    width: 515px;
+    line-height: 1.7;
 `

@@ -15,7 +15,7 @@ export const InfrastructureSection = () => {
                             State of the Art Infrastructure
                         </TitleSection>
                         <Description>
-                        Flexible content management enables users to easily move through posts. Increase the usability of your blog by adding customized categories, sections, format, or flow. With this functionality, you’re in full control.
+                        With reliability and speed in mind, worldwode data centers provide the backbone for ultra-fast connectivity. This ensures your site will load instantly, no matter where your readers are, keeping your site competitive.
                         </Description>
                     </RightArea>
                 </SectionContent>

@@ -1,4 +1,3 @@
-import { Description } from "../HeroSection/styles"
 import { Container, SectionContent, TitleSection, InfoSection, LeftArea, RightArea, TextInfo, TitleInfo, DescriptionInfo, ImageDesktop } from "./styles"
 
 import futereImg from '../../../assets/image/illustration-editor-desktop.svg'
