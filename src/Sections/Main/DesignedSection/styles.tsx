@@ -13,6 +13,7 @@ export const TitleSection = styled.h2`
     font-family: 'Overpass',sans-serif;
     color: hsl(208, 49%, 24%);
     text-align: center;
+    font-size: 35px;
 `
 
 export const InfoSection = styled.div`
@@ -24,6 +25,7 @@ export const LeftArea = styled.div`
     display: flex;
     flex-direction: column;
     gap: 3rem;
+    width: 36%;
 `
 export const RightArea = styled.div`
 
@@ -47,5 +49,5 @@ export const DescriptionInfo = styled.p`
 
 export const ImageDesktop = styled.img`
     width: auto;
-    height: 850px;
+    height: 770px;
 `
